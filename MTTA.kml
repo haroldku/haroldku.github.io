@@ -3,14 +3,42 @@
 <Document id="line" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
 	<name>line</name>
 	<Snippet maxLines="0"></Snippet>
-	<Style id="LineStyle010">
+	<Style id="LineStyle08">
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffeed7fc</color>
-			<width>3</width>
+			<color>ff9ec2d7</color>
+			<width>3.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle05">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>3.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle02">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffcd7766</color>
+			<width>3.4</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00000000</color>
@@ -23,8 +51,8 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffc3b6fc</color>
-			<width>3</width>
+			<color>ff732600</color>
+			<width>3.4</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00000000</color>
@@ -37,7 +65,7 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffd7f7fc</color>
+			<color>ffbebeff</color>
 			<width>3</width>
 		</LineStyle>
 		<PolyStyle>
@@ -51,8 +79,8 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffe0fcb3</color>
-			<width>3</width>
+			<color>ffffb273</color>
+			<width>3.4</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00000000</color>
@@ -65,8 +93,8 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffb3fbfc</color>
-			<width>3</width>
+			<color>ff1134fa</color>
+			<width>3.4</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00000000</color>
@@ -79,8 +107,8 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffb8d6fc</color>
-			<width>3</width>
+			<color>ff9966cd</color>
+			<width>3.4</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00000000</color>
@@ -93,36 +121,8 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ffcffcda</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>00000000</color>
-			<outline>0</outline>
-		</PolyStyle>
-	</Style>
-	<Style id="LineStyle08">
-		<LabelStyle>
-			<color>00000000</color>
-			<scale>0</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>ffb9fcb6</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>00000000</color>
-			<outline>0</outline>
-		</PolyStyle>
-	</Style>
-	<Style id="LineStyle05">
-		<LabelStyle>
-			<color>00000000</color>
-			<scale>0</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>fffcc0df</color>
-			<width>3</width>
+			<color>ff4e4e4e</color>
+			<width>3.4</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00000000</color>
@@ -135,22 +135,8 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>fffcd1b6</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>00000000</color>
-			<outline>0</outline>
-		</PolyStyle>
-	</Style>
-	<Style id="LineStyle02">
-		<LabelStyle>
-			<color>00000000</color>
-			<scale>0</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>fffcf5c0</color>
-			<width>3</width>
+			<color>ffff7000</color>
+			<width>4</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00000000</color>
@@ -27786,7 +27772,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#LineStyle010</styleUrl>
+			<styleUrl>#LineStyle06</styleUrl>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>absolute</altitudeMode>
