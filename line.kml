@@ -1,0 +1,4457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="line" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>line</name>
+	<open>1</open>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="LineStyle01">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff7000</color>
+			<width>3.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff3737ff</color>
+			<width>3.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>line</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Admiral</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Admiral</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineColor</td>
+
+<td>12910532</td>
+
+</tr>
+
+<tr>
+
+<td>LineId</td>
+
+<td>3790</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AgencyId</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>tpField00</td>
+
+<td>2794</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineAbbr</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>LineName</td>
+
+<td>Admiral</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineType</td>
+
+<td>FX</td>
+
+</tr>
+
+<tr>
+
+<td>tpField01</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField02</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>CommentId</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField03</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField04</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField05</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField06</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong3</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong4</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong5</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong6</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong7</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong8</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField07</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField08</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField09</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField10</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField11</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField12</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField13</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField14</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField15</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField16</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField17</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField18</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField19</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField20</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField21</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField22</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField23</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField24</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NumTrips</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField25</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField26</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField27</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RevenueNo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField28</td>
+
+<td>1598889048</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>IsShuttle</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField29</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField30</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>LineId0</td>
+
+<td>3790</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineId1</td>
+
+<td>3790</td>
+
+</tr>
+
+<tr>
+
+<td>DirNum0</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DirNum1</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>LineDirId0</td>
+
+<td>37900</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineDirId1</td>
+
+<td>37901</td>
+
+</tr>
+
+<tr>
+
+<td>AgencyId0</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AgencyId1</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>tpField310</td>
+
+<td>27940</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField311</td>
+
+<td>27941</td>
+
+</tr>
+
+<tr>
+
+<td>tpField320</td>
+
+<td>To Downtown</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField321</td>
+
+<td>From Downtown</td>
+
+</tr>
+
+<tr>
+
+<td>tpField330</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField331</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField340</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField341</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong10</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong11</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong20</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong21</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong30</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong31</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong40</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong41</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField350</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField351</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField360</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField361</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField370</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField371</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField380</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField381</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField390</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField391</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField400</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField401</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField410</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField411</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField420</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField421</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField430</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField431</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Sections0</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sections1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField440</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField441</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField450</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField451</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99514999999998,36.1531,0 -95.99463999999999,36.15215,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98998999999999,36.1538,0 -95.99114999999998,36.1534,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99114999999998,36.1534,0 -95.99229,36.153,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99229,36.153,0 -95.99348000000001,36.15256,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98873999999999,36.15423,0 -95.98998999999999,36.1538,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85118000000001,36.16073,0 -95.85035999999998,36.1607,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85035999999998,36.1607,0 -95.84909999999999,36.16068,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84909999999999,36.16068,0 -95.84848,36.16064,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.8467,36.16065,0 -95.84848,36.16064,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84466999999999,36.16066,0 -95.8467,36.16065,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84466999999999,36.16066,0 -95.84368999999998,36.16064,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84272,36.16064,0 -95.84368999999998,36.16064,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84115,36.16064,0 -95.84272,36.16064,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84057000000001,36.16065,0 -95.84115,36.16064,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.83883,36.16065,0 -95.84057000000001,36.16065,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84965,36.16057,0 -95.85118000000001,36.16057,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84909999999999,36.16059,0 -95.84965,36.16057,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84848,36.16064,0 -95.84909999999999,36.16059,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85118000000001,36.16073,0 -95.85320999999999,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85320999999999,36.16073,0 -95.85419999999998,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85419999999998,36.16073,0 -95.85442999999999,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85442999999999,36.16073,0 -95.85554999999999,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85799,36.16075,0 -95.85554999999999,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86023999999999,36.16077,0 -95.85799,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86023999999999,36.16077,0 -95.86076,36.16079,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86076,36.16079,0 -95.86098,36.16079,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86098,36.16079,0 -95.86153999999998,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86153999999998,36.16075,0 -95.86515,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86515,36.16075,0 -95.86563999999998,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86563999999998,36.16074,0 -95.86604,36.16069,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86666,36.16072,0 -95.86604,36.16069,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86753999999998,36.16073,0 -95.86666,36.16072,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86793999999999,36.16083,0 -95.86753999999998,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86828,36.16097,0 -95.86793999999999,36.16083,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86843999999999,36.1611,0 -95.86828,36.16097,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86872,36.16117,0 -95.86843999999999,36.1611,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86897999999998,36.16112,0 -95.86872,36.16117,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86897999999998,36.16112,0 -95.86918999999999,36.16097,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86918999999999,36.16097,0 -95.86944,36.16081,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86944,36.16081,0 -95.86982999999999,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86982999999999,36.16073,0 -95.87314999999998,36.16072,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.87426000000001,36.16073,0 -95.87314999999998,36.16072,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.87426000000001,36.16073,0 -95.87499,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.87499,36.16073,0 -95.87550999999999,36.16072,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.87550999999999,36.16072,0 -95.87773999999999,36.16071,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.88222999999999,36.16073,0 -95.87773999999999,36.16071,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.88222999999999,36.16073,0 -95.88670999999998,36.16071,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99399,36.15351,0 -95.99514999999998,36.1531,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99280000000002,36.15396,0 -95.99399,36.15351,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99149,36.15441,0 -95.99280000000002,36.15396,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98921999999999,36.15519,0 -95.99149,36.15441,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98805999999999,36.15559,0 -95.98921999999999,36.15519,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98686999999998,36.15601,0 -95.98805999999999,36.15559,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98568,36.15641,0 -95.98686999999998,36.15601,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98448999999999,36.15683,0 -95.98568,36.15641,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98329,36.15723,0 -95.98448999999999,36.15683,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98218999999999,36.15763,0 -95.98329,36.15723,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98191000000001,36.15765,0 -95.98218999999999,36.15763,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98101,36.15768,0 -95.98191000000001,36.15765,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98101,36.15768,0 -95.98058999999998,36.15767,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98043,36.15767,0 -95.98058999999998,36.15767,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98017999999999,36.15767,0 -95.98043,36.15767,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98005999999999,36.1577,0 -95.98017999999999,36.15767,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97991999999998,36.15774,0 -95.98005999999999,36.1577,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97978999999999,36.15781,0 -95.97991999999998,36.15774,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97952999999998,36.15799,0 -95.97978999999999,36.15781,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.979,36.15842,0 -95.97952999999998,36.15799,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97883999999999,36.15851,0 -95.979,36.15842,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97861999999999,36.15861,0 -95.97883999999999,36.15851,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97820999999999,36.15866,0 -95.97861999999999,36.15861,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97731999999999,36.15869,0 -95.97820999999999,36.15866,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97563999999998,36.15869,0 -95.97731999999999,36.15869,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97563999999998,36.15869,0 -95.97559,36.1577,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97559,36.1577,0 -95.9756,36.15671,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9756,36.15671,0 -95.97367,36.15669,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97367,36.15669,0 -95.97158,36.15668,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97158,36.15668,0 -95.96934000000002,36.15667,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.96934000000002,36.15667,0 -95.96711999999999,36.15665,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.96589999999999,36.15665,0 -95.96711999999999,36.15665,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.96589999999999,36.15665,0 -95.96467,36.15664,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.96346000000001,36.15664,0 -95.96467,36.15664,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.96346000000001,36.15664,0 -95.96208,36.15663,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.96203,36.15663,0 -95.96208,36.15663,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.96095,36.15663,0 -95.96203,36.15663,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.96071999999999,36.15663,0 -95.96095,36.15663,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.95976999999999,36.15664,0 -95.96071999999999,36.15663,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.95976999999999,36.15664,0 -95.95954999999999,36.15663,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.95954999999999,36.15663,0 -95.95814999999999,36.15659,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.95814999999999,36.15659,0 -95.95591999999999,36.15657,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.95368999999998,36.15658,0 -95.95591999999999,36.15657,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.95148999999999,36.15658,0 -95.95368999999998,36.15658,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.95148999999999,36.15658,0 -95.95011,36.15658,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.95011,36.15658,0 -95.94974999999999,36.15657,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94974999999999,36.15657,0 -95.94924999999999,36.15647,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94924999999999,36.15647,0 -95.94908,36.15643,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94908,36.15643,0 -95.94892,36.15642,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94892,36.15642,0 -95.94763999999999,36.15641,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94763999999999,36.15641,0 -95.94736999999999,36.15637,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94736999999999,36.15637,0 -95.94677,36.15629,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94677,36.15629,0 -95.94610999999999,36.15628,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94488,36.1563,0 -95.94610999999999,36.15628,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94376,36.1563,0 -95.94488,36.1563,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94292999999999,36.15634,0 -95.94376,36.1563,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94292999999999,36.15634,0 -95.94212999999998,36.15639,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94212999999998,36.15639,0 -95.94183,36.15638,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94183,36.15638,0 -95.94156000000001,36.15635,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94156000000001,36.15635,0 -95.94135,36.15628,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94135,36.15628,0 -95.94100000000002,36.15608,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94100000000002,36.15608,0 -95.94086,36.15602,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94086,36.15602,0 -95.94069999999999,36.15599,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94069999999999,36.15599,0 -95.94032,36.15599,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.94032,36.15599,0 -95.93799,36.15597,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93799,36.15597,0 -95.93603,36.15597,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93603,36.15597,0 -95.93588,36.15595,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93588,36.15595,0 -95.93519999999999,36.15588,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93519999999999,36.15588,0 -95.93447999999999,36.15586,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93447999999999,36.15586,0 -95.93374,36.15588,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.15589,0 -95.93374,36.15588,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.15668,0 -95.93142999999999,36.15589,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.15748,0 -95.93142999999999,36.15668,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93141999999999,36.15824,0 -95.93142999999999,36.15748,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93141999999999,36.15847,0 -95.93141999999999,36.15824,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.15905,0 -95.93141999999999,36.15847,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.15936,0 -95.93142999999999,36.15905,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.15955,0 -95.93142999999999,36.15936,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.15986,0 -95.93142999999999,36.15955,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.1602,0 -95.93142999999999,36.15986,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.16074,0 -95.93142999999999,36.1602,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93102999999999,36.16074,0 -95.93142999999999,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.92864,36.16074,0 -95.93102999999999,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.92780999999999,36.16075,0 -95.92864,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.92780999999999,36.16075,0 -95.92554,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.92452,36.16073,0 -95.92554,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.92249,36.16074,0 -95.92452,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.92022999999998,36.16075,0 -95.92249,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.91801,36.16075,0 -95.92022999999998,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.91445,36.16078,0 -95.91801,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.91414999999999,36.16078,0 -95.91445,36.16078,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.91349999999998,36.16077,0 -95.91414999999999,36.16078,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.91349999999998,36.16077,0 -95.91123999999999,36.16076,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.91123999999999,36.16076,0 -95.90893999999999,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.90893999999999,36.16075,0 -95.90679,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.90454999999999,36.16074,0 -95.90679,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.90339,36.16075,0 -95.90454999999999,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.90228999999999,36.16076,0 -95.90339,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.90228999999999,36.16076,0 -95.90118,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.90057,36.16074,0 -95.90118,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.90013999999999,36.16074,0 -95.90057,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.89901999999999,36.16074,0 -95.90013999999999,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.89791,36.16074,0 -95.89901999999999,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.89677999999999,36.16075,0 -95.89791,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.89564999999999,36.16075,0 -95.89677999999999,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.89458999999999,36.16075,0 -95.89564999999999,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.89458999999999,36.16075,0 -95.89263,36.16073,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.89263,36.16073,0 -95.89033999999999,36.16074,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.89033999999999,36.16074,0 -95.88837999999998,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.88837999999998,36.16075,0 -95.88670999999998,36.16071,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86604,36.16069,0 -95.86563999999998,36.16063,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86563999999998,36.16063,0 -95.86515,36.16063,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86515,36.16063,0 -95.86385999999999,36.1606,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86385999999999,36.1606,0 -95.86148,36.1606,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86098,36.1606,0 -95.86148,36.1606,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86076,36.1606,0 -95.86098,36.1606,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86023,36.1606,0 -95.86076,36.1606,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86023,36.1606,0 -95.85807999999999,36.16058,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85789,36.16058,0 -95.85807999999999,36.16058,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85549999999999,36.16058,0 -95.85789,36.16058,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85549999999999,36.16058,0 -95.85442999999999,36.16057,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85415999999999,36.16057,0 -95.85442999999999,36.16057,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85321999999999,36.16057,0 -95.85415999999999,36.16057,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.85118000000001,36.16057,0 -95.85321999999999,36.16057,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84057000000001,36.16168,0 -95.84057000000001,36.16065,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84053,36.16181,0 -95.84057000000001,36.16168,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84041999999999,36.16204,0 -95.84053,36.16181,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84039,36.16219,0 -95.84041999999999,36.16204,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84034999999999,36.16241,0 -95.84039,36.16219,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84026999999999,36.16255,0 -95.84034999999999,36.16241,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84012999999999,36.16266,0 -95.84026999999999,36.16255,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.84005999999999,36.16269,0 -95.84012999999999,36.16266,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.83989,36.16272,0 -95.84005999999999,36.16269,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86982999999999,36.16073,0 -95.86964999999998,36.16068,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86964999999998,36.16068,0 -95.86942000000001,36.16059,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86942000000001,36.16059,0 -95.86925000000001,36.16054,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86925000000001,36.16054,0 -95.86909999999997,36.1604,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86909999999997,36.1604,0 -95.86891000000001,36.16028,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86891000000001,36.16028,0 -95.86861999999999,36.16027,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86861999999999,36.16027,0 -95.86841999999999,36.16034,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86820999999998,36.1605,0 -95.86841999999999,36.16034,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86801,36.16056,0 -95.86820999999998,36.1605,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.86753999999998,36.16073,0 -95.86801,36.16056,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.83989,36.16272,0 -95.83967,36.16271,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.83967,36.16271,0 -95.8395,36.16265,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.8395,36.16265,0 -95.83942999999999,36.16261,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.83942999999999,36.16261,0 -95.83932,36.1625,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.83932,36.1625,0 -95.83910999999999,36.16221,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.83910999999999,36.16221,0 -95.83888999999999,36.16197,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.83888999999999,36.16197,0 -95.83882,36.16186,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.83882,36.16186,0 -95.83883,36.16065,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.91445,36.16078,0 -95.91494999999998,36.16045,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9756,36.15671,0 -95.97632999999999,36.15671,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97632999999999,36.15671,0 -95.97732999999999,36.15671,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97732999999999,36.15671,0 -95.97808000000001,36.15671,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97808000000001,36.15671,0 -95.97854,36.1567,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97854,36.1567,0 -95.97977,36.1567,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.97977,36.1567,0 -95.98034,36.15667,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98034,36.15667,0 -95.98047000000001,36.15668,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98047000000001,36.15668,0 -95.98099999999999,36.1567,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98099999999999,36.1567,0 -95.98160999999999,36.15671,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98160999999999,36.15671,0 -95.98178,36.1567,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98178,36.1567,0 -95.9819,36.15667,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9819,36.15667,0 -95.98218999999999,36.15655,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98218999999999,36.15655,0 -95.98399999999999,36.15589,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98399999999999,36.15589,0 -95.98517,36.15548,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98517,36.15548,0 -95.98636999999998,36.15506,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98636999999998,36.15506,0 -95.98756,36.15465,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98756,36.15465,0 -95.98873999999999,36.15423,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99307899999999,36.151819,0 -95.99348000000001,36.15256,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99326900000001,36.151738,0 -95.99307899999999,36.151819,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.994232,36.151406,0 -95.99326900000001,36.151738,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99463999999999,36.15215,0 -95.994232,36.151406,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93370999999999,36.15575,0 -95.93339999999998,36.15531,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93339999999998,36.15531,0 -95.93326999999999,36.15513,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93326999999999,36.15513,0 -95.93317999999998,36.15507,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93317999999998,36.15507,0 -95.93177999999999,36.15504,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93177999999999,36.15504,0 -95.93142999999999,36.15505,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93142999999999,36.15589,0 -95.93142999999999,36.15505,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.93374,36.15588,0 -95.93370999999999,36.15575,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Suburban Acres</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Suburban Acres</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineColor</td>
+
+<td>128</td>
+
+</tr>
+
+<tr>
+
+<td>LineId</td>
+
+<td>3791</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AgencyId</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>tpField00</td>
+
+<td>2795</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineAbbr</td>
+
+<td>101</td>
+
+</tr>
+
+<tr>
+
+<td>LineName</td>
+
+<td>Suburban Acres</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineType</td>
+
+<td>FX</td>
+
+</tr>
+
+<tr>
+
+<td>tpField01</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField02</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>CommentId</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField03</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField04</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField05</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField06</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong3</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong4</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong5</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong6</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong7</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong8</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField07</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField08</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField09</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField10</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField11</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField12</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField13</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField14</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField15</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField16</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField17</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField18</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField19</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField20</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField21</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField22</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField23</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField24</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NumTrips</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField25</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField26</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField27</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RevenueNo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField28</td>
+
+<td>1598889048</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>IsShuttle</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField29</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField30</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>LineId0</td>
+
+<td>3791</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineId1</td>
+
+<td>3791</td>
+
+</tr>
+
+<tr>
+
+<td>DirNum0</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DirNum1</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>LineDirId0</td>
+
+<td>37910</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LineDirId1</td>
+
+<td>37911</td>
+
+</tr>
+
+<tr>
+
+<td>AgencyId0</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AgencyId1</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>tpField310</td>
+
+<td>27950</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField311</td>
+
+<td>27951</td>
+
+</tr>
+
+<tr>
+
+<td>tpField320</td>
+
+<td>From Downtown</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField321</td>
+
+<td>To Downtown</td>
+
+</tr>
+
+<tr>
+
+<td>tpField330</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField331</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField340</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField341</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong10</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong11</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong20</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong21</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong30</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong31</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>UserLong40</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UserLong41</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField350</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField351</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField360</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField361</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField370</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField371</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField380</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField381</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField390</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField391</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField400</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField401</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField410</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField411</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField420</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField421</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>tpField430</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField431</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Sections0</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Sections1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField440</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField441</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>tpField450</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>tpField451</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle01</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99514999999998,36.1531,0 -95.99463999999999,36.15215,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99566999999999,36.15408,0 -95.99514999999998,36.1531,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9961,36.1549,0 -95.99566999999999,36.15408,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99669000000002,36.15609,0 -95.9961,36.1549,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99399,36.15351,0 -95.99514999999998,36.1531,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99722,36.15704,0 -95.99669000000002,36.15609,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99772,36.158,0 -95.99722,36.15704,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99869999999999,36.1598,0 -95.99772,36.158,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99897000000001,36.16032,0 -95.99869999999999,36.1598,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99903999999998,36.16048,0 -95.99897000000001,36.16032,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99919,36.16075,0 -95.99903999999998,36.16048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99924999999999,36.16088,0 -95.99919,36.16075,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99945,36.16125,0 -95.99924999999999,36.16088,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99948000000001,36.16154,0 -95.99945,36.16125,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99945,36.16233,0 -95.99948000000001,36.16154,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99945,36.16233,0 -95.99803000000001,36.16218,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99803000000001,36.16218,0 -95.99708,36.16212,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99708999999999,36.16221,0 -95.99708,36.16212,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99597000000001,36.16261,0 -95.99708999999999,36.16221,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99686000000001,36.16427,0 -95.99597000000001,36.16261,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99687,36.16526,0 -95.99686000000001,36.16427,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99687,36.16606,0 -95.99687,36.16526,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99684999999999,36.16696,0 -95.99687,36.16606,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99683999999999,36.16774,0 -95.99684999999999,36.16696,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99683999999999,36.16791,0 -95.99683999999999,36.16774,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99682999999999,36.16881,0 -95.99683999999999,36.16791,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99683999999999,36.17151,0 -95.99682999999999,36.16881,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99682999999999,36.17333,0 -95.99683999999999,36.17151,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99682999999999,36.1753,0 -95.99682999999999,36.17333,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99684999999999,36.17693,0 -95.99682999999999,36.1753,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99576999999999,36.17693,0 -95.99684999999999,36.17693,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99576999999999,36.17693,0 -95.99464999999998,36.17692,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351999999999,36.17692,0 -95.99464999999998,36.17692,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.17876,0 -95.99351999999999,36.17692,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.17967,0 -95.99353000000001,36.17876,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.18056,0 -95.99353000000001,36.17967,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.18101,0 -95.99353000000001,36.18056,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.18201,0 -95.99353000000001,36.18101,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.18237,0 -95.99353000000001,36.18201,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.1828,0 -95.99353000000001,36.18237,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.18376,0 -95.99353000000001,36.1828,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351999999999,36.18426,0 -95.99353000000001,36.18376,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351999999999,36.18469,0 -95.99351999999999,36.18426,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351999999999,36.18551,0 -95.99351999999999,36.18469,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.1865,0 -95.99351999999999,36.18551,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.18692,0 -95.99351,36.1865,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.18735,0 -95.99351,36.18692,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.18965,0 -95.99351,36.18735,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9935,36.19144,0 -95.99351,36.18965,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.19242,0 -95.9935,36.19144,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98985999999999,36.19246,0 -95.99351,36.19242,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98902999999999,36.19251,0 -95.98985999999999,36.19246,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98855999999999,36.19258,0 -95.98902999999999,36.19251,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98674999999999,36.19305,0 -95.98855999999999,36.19258,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98676999999999,36.19408,0 -95.98674999999999,36.19305,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98676999999999,36.1949,0 -95.98676999999999,36.19408,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98678,36.19508,0 -95.98676999999999,36.1949,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98676999999999,36.19691,0 -95.98678,36.19508,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98678,36.1987,0 -95.98676999999999,36.19691,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98675999999998,36.1989,0 -95.98678,36.1987,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98669000000001,36.19921,0 -95.98675999999998,36.1989,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98631999999998,36.20017,0 -95.98669000000001,36.19921,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98624,36.2005,0 -95.98631999999998,36.20017,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98611,36.20051,0 -95.98624,36.2005,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98509,36.20054,0 -95.98611,36.20051,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98509,36.20191,0 -95.98509,36.20054,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98509,36.20273,0 -95.98509,36.20191,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98508000000001,36.20354,0 -95.98509,36.20273,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98501999999999,36.20382,0 -95.98508000000001,36.20354,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98499,36.20392,0 -95.98501999999999,36.20382,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98470999999999,36.20441,0 -95.98499,36.20392,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98458000000001,36.20463,0 -95.98470999999999,36.20441,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98456,36.20471,0 -95.98458000000001,36.20463,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98451999999999,36.20491,0 -95.98456,36.20471,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98455,36.20595,0 -95.98451999999999,36.20491,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98461999999999,36.2067,0 -95.98455,36.20595,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98463999999998,36.20735,0 -95.98461999999999,36.2067,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98458999999998,36.20834,0 -95.98463999999998,36.20735,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98456999999999,36.20931,0 -95.98458999999998,36.20834,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98454,36.20955,0 -95.98456999999999,36.20931,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98448999999999,36.20974,0 -95.98454,36.20955,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98437,36.21002,0 -95.98448999999999,36.20974,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98425999999998,36.21021,0 -95.98437,36.21002,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98396999999999,36.2107,0 -95.98425999999998,36.21021,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98389999999999,36.211,0 -95.98396999999999,36.2107,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98388,36.21118,0 -95.98389999999999,36.211,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98389,36.2113,0 -95.98388,36.21118,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98396999999999,36.21172,0 -95.98389,36.2113,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98439999999999,36.21272,0 -95.98396999999999,36.21172,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98451,36.21303,0 -95.98439999999999,36.21272,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98451999999999,36.21314,0 -95.98451,36.21303,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98451999999999,36.21371,0 -95.98451999999999,36.21314,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98451,36.21455,0 -95.98451999999999,36.21371,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98453000000001,36.2154,0 -95.98451,36.21455,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98451999999999,36.21654,0 -95.98453000000001,36.2154,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98448999999999,36.2195,0 -95.98451999999999,36.21654,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9845,36.22048,0 -95.98448999999999,36.2195,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98558000000001,36.22049,0 -95.9845,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98558000000001,36.22049,0 -95.98674999999999,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98674999999999,36.22048,0 -95.98787,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98787,36.22048,0 -95.98899999999999,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98899999999999,36.22048,0 -95.98998,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98998,36.22048,0 -95.99007999999999,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99007999999999,36.22048,0 -95.99093999999999,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99118,36.22049,0 -95.99093999999999,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99118,36.22049,0 -95.99189,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99189,36.22048,0 -95.99226999999999,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99348000000001,36.22049,0 -95.99226999999999,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99348000000001,36.22049,0 -95.99509,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99571,36.22049,0 -95.99509,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99571,36.22049,0 -95.99704,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99704,36.22048,0 -95.99802,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99802,36.22048,0 -95.99898999999998,36.22047,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99898999999998,36.22106,0 -95.99898999999998,36.22047,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99897999999999,36.22184,0 -95.99898999999998,36.22106,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99897999999999,36.22264,0 -95.99897999999999,36.22184,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99897999999999,36.22339,0 -95.99897999999999,36.22264,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99898999999998,36.22419,0 -95.99897999999999,36.22339,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99802,36.22419,0 -95.99898999999998,36.22419,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99704,36.22419,0 -95.99802,36.22419,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99606,36.22419,0 -95.99704,36.22419,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99508000000002,36.22419,0 -95.99606,36.22419,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99415,36.2242,0 -95.99508000000002,36.22419,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.2242,0 -95.99415,36.2242,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.22768,0 -95.99351,36.2242,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.22816,0 -95.99351,36.22768,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.22976,0 -95.99351,36.22816,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.23134,0 -95.99351,36.22976,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.23295,0 -95.99351,36.23134,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353999999998,36.23495,0 -95.99353000000001,36.23295,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353000000001,36.23733,0 -95.99353999999998,36.23495,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99353999999998,36.23817,0 -95.99353000000001,36.23733,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351999999999,36.23947,0 -95.99353999999998,36.23817,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9935,36.24216,0 -95.99351999999999,36.23947,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9935,36.2449,0 -95.9935,36.24216,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9935,36.2449,0 -95.99441999999999,36.2449,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99569999999999,36.2449,0 -95.99441999999999,36.2449,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99593999999999,36.24492,0 -95.99569999999999,36.2449,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99624999999999,36.24497,0 -95.99593999999999,36.24492,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99624,36.24783,0 -95.99624999999999,36.24497,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99626000000001,36.24905,0 -95.99624,36.24783,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99626000000001,36.24905,0 -95.99720000000001,36.24904,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99720000000001,36.24904,0 -95.99817,36.24903,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99902,36.24904,0 -95.99817,36.24903,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99931000000001,36.24906,0 -95.99902,36.24904,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99977,36.24914,0 -95.99931000000001,36.24906,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99977,36.24914,0 -95.99988999999999,36.24882,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99988999999999,36.24882,0 -96.00003000000001,36.24845,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00003000000001,36.24845,0 -96.00031000000001,36.24805,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00031000000001,36.24805,0 -96.0005,36.2473,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.0005,36.2473,0 -96.00063,36.24674,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00063,36.24674,0 -96.00077999999999,36.24618,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00077999999999,36.24618,0 -96.00076999999997,36.24597,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00076999999997,36.24597,0 -96.00072999999999,36.24594,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00072999999999,36.24594,0 -96.00062,36.24592,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00062,36.24592,0 -95.99914000000001,36.24593,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99914000000001,36.24593,0 -95.99912999999999,36.24511,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99863999999999,36.24511,0 -95.99912999999999,36.24511,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99816,36.24512,0 -95.99863999999999,36.24511,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99717,36.24514,0 -95.99816,36.24512,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99717,36.24514,0 -95.99701999999999,36.24513,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99701999999999,36.24513,0 -95.99672,36.24508,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99672,36.24508,0 -95.99624999999999,36.24497,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98921,36.23495,0 -95.99353999999998,36.23495,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98701,36.23497,0 -95.98921,36.23495,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98506999999999,36.23497,0 -95.98701,36.23497,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98455,36.23497,0 -95.98506999999999,36.23497,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98455,36.23497,0 -95.98455,36.23482,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98455,36.23482,0 -95.98453000000001,36.23215,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98453000000001,36.23215,0 -95.98453000000001,36.23136,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98453000000001,36.23136,0 -95.98453000000001,36.23055,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98453000000001,36.23055,0 -95.98453000000001,36.22976,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98453000000001,36.22976,0 -95.98451999999999,36.22897,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98451999999999,36.22897,0 -95.98453000000001,36.22816,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98453000000001,36.22816,0 -95.98453000000001,36.22712,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98453000000001,36.22712,0 -95.98453000000001,36.22592,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98453000000001,36.22592,0 -95.98453000000001,36.22416,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98453000000001,36.22416,0 -95.9845,36.22048,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99399,36.15351,0 -95.99348000000001,36.15256,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98455,36.20595,0 -95.98563999999999,36.20595,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98563999999999,36.20595,0 -95.98948999999998,36.20594,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.98948999999998,36.20594,0 -95.99173999999999,36.20592,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9935,36.20593,0 -95.99173999999999,36.20592,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9935,36.20593,0 -95.99603999999998,36.20592,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99603999999998,36.20592,0 -95.9991,36.20591,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9991,36.20591,0 -96.0013,36.20591,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99329299999999,36.152221,0 -95.99348000000001,36.15256,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9935,36.20593,0 -95.99351,36.20311,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99351,36.20311,0 -95.99351,36.20251,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99324,36.20248,0 -95.99351,36.20251,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99324299999999,36.202545,0 -95.99324,36.20248,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99326600000001,36.202581,0 -95.99324299999999,36.202545,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99331099999999,36.202589,0 -95.99326600000001,36.202581,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99333399999999,36.202625,0 -95.99331099999999,36.202589,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99331299999999,36.203116,0 -95.99333399999999,36.202625,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99331299999999,36.203116,0 -95.99351,36.20311,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.0013,36.20591,0 -96.00195499999998,36.205916,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00195499999998,36.205916,0 -96.001924,36.20672,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00192799999999,36.207693,0 -96.001924,36.20672,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00228,36.205915,0 -96.00195499999998,36.205916,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99504499999999,36.206764,0 -95.99564699999998,36.205923,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99490999999999,36.206854,0 -95.99504499999999,36.206764,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99484299999999,36.206943,0 -95.99490999999999,36.206854,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.994956,36.207023,0 -95.99484299999999,36.206943,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99517999999999,36.20704,0 -95.994956,36.207023,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99529199999999,36.206951,0 -95.99517999999999,36.20704,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99528099999999,36.206862,0 -95.99529199999999,36.206951,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99517899999999,36.206799,0 -95.99528099999999,36.206862,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99504499999999,36.206764,0 -95.99517899999999,36.206799,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.9935,36.20593,0 -95.99550099999999,36.205923,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99550099999999,36.205923,0 -95.99603999999998,36.20592,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99603999999998,36.20592,0 -95.99564699999998,36.205923,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99564699999998,36.205923,0 -95.9991,36.20591,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99706999999999,36.1639,0 -95.99708999999999,36.16221,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99704,36.16405,0 -95.99706999999999,36.1639,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99700999999999,36.16413,0 -95.99704,36.16405,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99696999999999,36.16419,0 -95.99700999999999,36.16413,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99686000000001,36.16427,0 -95.99696999999999,36.16419,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.001941,36.20797,0 -96.00192799999999,36.207693,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.001941,36.20797,0 -96.00260299999998,36.207959,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00255,36.205897,0 -96.00260299999998,36.207959,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-96.00228,36.205915,0 -96.00255,36.205897,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99417800000001,36.151942,0 -95.99412099999999,36.151745,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99416699999999,36.152013,0 -95.99417800000001,36.151942,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99411199999999,36.152085,0 -95.99416699999999,36.152013,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99451499999998,36.151932,0 -95.99411199999999,36.152085,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99463999999999,36.15215,0 -95.99451499999998,36.151932,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.993807,36.151603,0 -95.993101,36.151837,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99401999999999,36.151638,0 -95.993807,36.151603,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99412099999999,36.151745,0 -95.99401999999999,36.151638,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.993101,36.151837,0 -95.99334999999999,36.152328,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99334999999999,36.152328,0 -95.99411199999999,36.152085,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>
+						-95.99348000000001,36.15256,0 -95.99334999999999,36.152328,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
