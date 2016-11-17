@@ -2,8 +2,14 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 	<Document id="root_doc">
 		<name>Rt101.kml</name>
+	<Style id="blueLine">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
 		<open>1</open>
-		<StyleMap id="m_ylw-pushpin">
+		<StyleMap id="blueLine">
 			<Pair>
 				<key>normal</key>
 				<styleUrl>#s_ylw-pushpin</styleUrl>
@@ -43,7 +49,7 @@
 			<name>Rt101</name>
 			<open>1</open>
 			<Placemark>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#blueLine</styleUrl>
 				<MultiGeometry>
 					<LineString>
 						<coordinates>
